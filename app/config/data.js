@@ -29,9 +29,9 @@ export const me = {
     "value": "408-64-0336"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
   "nat": "US"
 };
